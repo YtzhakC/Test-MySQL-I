@@ -29,8 +29,22 @@ Actualmente, "Pizza Fiesta" no tiene una forma eficaz de gestionar sus operacion
 ### Pagos y Recogida: 
 * Los pedidos solo comenzarán a prepararse una vez realizado el pago, sin costos adicionales, ya que los clientes recogen personalmente su orden.
 
+
+# Estructura del Exámen
+
+```
+| - Diagrama ER UML
+|     | - Diagrama ER.jpg    --- Imágen JPG del Diagrama Eentidad Relación
+|
+| - consultas.sql            --- Script SQL de cada consulta
+|
+| - README.md                --- Archivo MarkDown de documentación del Exámen
+|
+| - script.sql               --- Script SQL de la base de datos
 ```
 
-Examen realizado por Ytzhak Carvajal B)
+```
+
+Examen realizado por Ytzhak Carvajal.
 
 ```
