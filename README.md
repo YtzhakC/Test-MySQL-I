@@ -34,7 +34,7 @@ Actualmente, "Pizza Fiesta" no tiene una forma eficaz de gestionar sus operacion
 
 ```
 | - Diagrama ER UML
-|     | - Diagrama ER.jpg    --- Imágen JPG del Diagrama Eentidad Relación
+|     | - Diagrama ER.jpg    --- Imágen JPG del Diagrama Entidad Relación
 |
 | - consultas.sql            --- Script SQL de cada consulta
 |
